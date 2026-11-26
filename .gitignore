@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+runs/
+data/*
+!data/README.md
+!data/data.yaml
+*.mp4
+*.avi
+*.mov
+.ipynb_checkpoints/
